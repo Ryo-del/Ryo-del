@@ -27,4 +27,4 @@ jobs:
           plugin_languages_indepth: yes
           
           # ВАЖНО: Проверьте, что эти данные совпадают с данными ваших коммитов
-          commits_authoring: Ryo-del, Ryo, ryo-del@users.noreply.github.com
+          commits_authoring: Ryo-del, Ryo, Ryo-del@users.noreply.github.com
