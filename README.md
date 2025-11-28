@@ -6,12 +6,12 @@
  [![My Skills](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=golang&theme=dark)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=kubernetes&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=bash&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=jenkins&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=bots&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryo-del&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryo-del&show_icons=true&theme=radical)
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ryo-del&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ryo-del&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ryo-del&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryo-del&show_icons=true" />
 </picture>
