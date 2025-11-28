@@ -16,5 +16,5 @@
     srcset="https://github-readme-stats.vercel.app/api?username=ryo-del&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ryo-del&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryo-del&show_icons=true" alt="Ryo's GitHub Stats" />
 </picture>
