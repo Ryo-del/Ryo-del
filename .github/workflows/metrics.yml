@@ -1,0 +1,30 @@
+name: GitHub Metrics
+
+on:
+  # Запускать каждый день в 00:00 UTC
+  schedule:
+    - cron: '0 0 * * *'
+  # Разрешить ручной запуск (по желанию)
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Разрешение на запись файлов в репозиторий
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # ВАЖНО: GitHub Token с правами на "contents: write"
+          token: ${{ secrets.GITHUB_TOKEN }} 
+          
+          # Название файла, в который будет сохранена метрика
+          output_filename: metrics.svg 
+          
+          # ВАШИ ПЛАГИНЫ И НАСТРОЙКИ
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          
+          # ВАЖНО: Проверьте, что эти данные совпадают с данными ваших коммитов
+          commits_authoring: Ryo-del, Ryo, ryo-del@users.noreply.github.com
