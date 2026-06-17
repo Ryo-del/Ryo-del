@@ -20,7 +20,3 @@
   💬 Telegram: @Hirasawa_a  
   📧 Email: artem.baiduraev@icloud.com  
   🧠 LeetCode: https://leetcode.com/u/Ryo121/  
-
----
-
-[![](https://komarev.com/ghpvc/?username=Ryo-del&icon=0&color=1)](https://visitcount.itsvg.in)
