@@ -17,6 +17,6 @@
 <br>
 
 ## 📬 Contacts:
-  💬 Telegram: @Hirasawa_a  
+  💬 Telegram: @Hirasawaaa
   📧 Email: artem.baiduraev@icloud.com  
   🧠 LeetCode: https://leetcode.com/u/Ryo121/  
